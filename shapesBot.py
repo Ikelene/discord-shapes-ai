@@ -29,7 +29,7 @@ except Exception:
 import discord
 from discord import app_commands
 
-VERSION = "0.9"
+VERSION = "1.0"
 REPO_SLUG = "Ikelene/discord-shapes-ai"
 REPO_URL = f"https://github.com/{REPO_SLUG}"
 LATEST_API = f"https://api.github.com/repos/{REPO_SLUG}/releases/latest"
