@@ -3,7 +3,7 @@
 yes, it uses email.
 
 ## Before starting, make sure you have the following
-- An email SMTP and IMAP server that the bot can use. (Thats how it communicates)
+- An email SMTP and IMAP server that the bot can use. (Thats how it communicates without breaking shapes TOS)
 - A shapes.inc bot (duh) _note down its username_
 - A discord bot
 
