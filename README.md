@@ -1,3 +1,7 @@
+# Unfortunately, shapes.inc has temporarily disabled shape emails.
+This project currently does not work until either shapes brings back emails, or a workaround is found.
+
+
 # Shapes.inc Discord Bot Revival
 **Bring shape bots back to discord with a cursed method. *(If you know anything better feel free to open a PR)***
 yes, it uses email.
